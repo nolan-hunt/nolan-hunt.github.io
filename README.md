@@ -10,7 +10,7 @@
   </header>
   <nav>
     <ul>
-      <li><a href="https://nolanhunt.bandcamp.com/album/pavements-ep" target="_blank" rel="noopener noreferrer">Pavements EP</a> EP, (Nolan Hunt / Nisk, 2025)</li>
+      <li><a href="https://nolanhunt.bandcamp.com/album/pavements-ep" target="_blank" rel="noopener noreferrer">Pavements EP</a> (Nolan Hunt / Nisk, 2025)</li>
       <li><a href="compositions.html">Compositions</a></li>
       <li><a href="performances.html">Performances</a></li>
       <li><a href="publications.html">Publications</a></li>
