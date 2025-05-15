@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,7 +6,6 @@
 </head>
 <body>
   <header>
-    <h1>Nolan Hunt</h1>
     <p>Find links to work below</p>
   </header>
   <nav>
