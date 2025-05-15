@@ -1,12 +1,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="nolan hunt" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <p>Find links to work below</p>
+    <p>Find links to work below.</p>
   </header>
   <nav>
     <ul>
