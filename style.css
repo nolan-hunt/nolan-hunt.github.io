@@ -105,3 +105,10 @@
   max-width: 100%;
   box-sizing: content-box;
 }
+
+video {
+  width: 100%;
+  height: auto;
+  display: block; /* Ensures no extra space around the video */
+  margin-top: 1rem;
+}
