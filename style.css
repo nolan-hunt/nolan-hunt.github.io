@@ -116,8 +116,8 @@ video {
 
 @media (max-width: 768px) {
   .markdown-body {
-    font-size: 15px; /* slightly smaller than base size */
-    padding: 1rem;   /* less padding for tighter feel */
+    font-size: 15px; 
+    padding: 1rem;   
   }
 
   .markdown-body h1 { font-size: 1.75em; }
