@@ -116,14 +116,14 @@ video {
 
 @media (max-width: 768px) {
   .markdown-body {
-    font-size: 18px;
-    padding: 1.5rem;
+    font-size: 15px; /* slightly smaller than base size */
+    padding: 1rem;   /* less padding for tighter feel */
   }
 
-  .markdown-body h1 { font-size: 2.2em; }
-  .markdown-body h2 { font-size: 1.75em; }
-  .markdown-body h3 { font-size: 1.4em; }
-  .markdown-body h4 { font-size: 1.2em; }
-  .markdown-body h5 { font-size: 1.05em; }
-  .markdown-body h6 { font-size: 0.95em; }
+  .markdown-body h1 { font-size: 1.75em; }
+  .markdown-body h2 { font-size: 1.5em; }
+  .markdown-body h3 { font-size: 1.25em; }
+  .markdown-body h4 { font-size: 1.1em; }
+  .markdown-body h5 { font-size: 1em; }
+  .markdown-body h6 { font-size: 0.9em; }
 }
