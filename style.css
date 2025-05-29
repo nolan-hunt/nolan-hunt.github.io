@@ -141,5 +141,6 @@ video {
   }
 
   video {
-    max-height: 100vw; /* ensures they stay within screen height */
+    max-height: 100vw;
+  }
 }
