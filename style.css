@@ -134,4 +134,12 @@ video {
   .markdown-body h4 { font-size: 1.1em; }
   .markdown-body h5 { font-size: 1em; }
   .markdown-body h6 { font-size: 0.9em; }
+
+  .video-grid {
+    grid-template-columns: repeat(2, 1fr); 
+    max-width: 340px; 
+  }
+
+  video {
+    max-height: 100vw; /* ensures they stay within screen height */
 }
