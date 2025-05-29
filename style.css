@@ -108,11 +108,10 @@
 
 .video-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 10px;
-  padding: 20px;
-  max-width: 1200px;
   width: 100%;
+  padding: 0;
 }
 
 video {
